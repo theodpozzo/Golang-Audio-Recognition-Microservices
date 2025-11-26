@@ -1,4 +1,4 @@
-# Cooltown Audio Recognition Microservices
+# Golang Audio Recognition Microservices
 
 
 A modular Go microservice ecosystem for recognising audio fragments, querying an external music-identification API, and retrieving or storing track audio locally.  
